@@ -14,3 +14,7 @@
 $app->get('/', function () use ($app) {
     return $app->welcome();
 });
+
+$app->get('/pet', function () use ($app) {
+    return view("why");
+});
