@@ -1,4 +1,3 @@
 # Petstagram
-==============
 
 Instagram for Pets!
