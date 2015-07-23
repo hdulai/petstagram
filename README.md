@@ -1,1 +1,4 @@
-# petstagram
+# Petstagram
+==============
+
+Instagram for Pets!
